@@ -1,0 +1,1 @@
+This project is a python script that runs automatically every morning, gathers useful info for your day, formats it nicely, and sends it directly to your phone via a Telegram or Discord bot.
